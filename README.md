@@ -7,6 +7,21 @@ A decentralized debate platform built on IOTA blockchain using Move smart contra
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
+## 🔗 Deployed Links
+
+### Smart Contract (IOTA Testnet)
+- **Contract Address (Testnet Deployment)**: `0xbb0936af28a0e5bb4079cebbdb604ab9fdd84163f453fb8fe103f6fe6c164008`
+- **Package ID**: `0xbb0936af28a0e5bb4079cebbdb604ab9fdd84163f453fb8fe103f6fe6c164008`
+- **Explorer**: [View on IOTA Explorer](https://explorer.iota.org/testnet/object/0xbb0936af28a0e5bb4079cebbdb604ab9fdd84163f453fb8fe103f6fe6c164008)
+- **Deploy Transaction**: [View TX](https://explorer.iota.org/testnet/txblock/2bBBQW3ZyczGMVDgRyCBaWJQWAEwBVEVGNbsVF1sjXk2)
+- **Network**: IOTA Testnet
+
+### Frontend
+- **Live Demo**: Deploy to Vercel to get your live link
+- **GitHub Repository**: [micro_debate_arena](https://github.com/thanhduowng/micro_debate_arena)
+
+---
+
 ## 📋 Table of Contents
 
 - [Features](#-features)
