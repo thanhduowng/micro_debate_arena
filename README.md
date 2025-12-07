@@ -8,9 +8,10 @@ A decentralized debate platform built on IOTA blockchain using Move smart contra
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 ## 🔗 Deployed Links
-
+https://explorer.iota.org/object/0xbb0936af28a0e5bb4079cebbdb604ab9fdd84163f453fb8fe103f6fe6c164008?network=testnet
 ### Smart Contract (IOTA Testnet)
 - **Contract Address (Testnet Deployment)**: `0xbb0936af28a0e5bb4079cebbdb604ab9fdd84163f453fb8fe103f6fe6c164008`
+- **
 - **Package ID**: `0xbb0936af28a0e5bb4079cebbdb604ab9fdd84163f453fb8fe103f6fe6c164008`
 - **Explorer**: [View on IOTA Explorer](https://explorer.iota.org/testnet/object/0xbb0936af28a0e5bb4079cebbdb604ab9fdd84163f453fb8fe103f6fe6c164008)
 - **Deploy Transaction**: [View TX](https://explorer.iota.org/testnet/txblock/2bBBQW3ZyczGMVDgRyCBaWJQWAEwBVEVGNbsVF1sjXk2)
